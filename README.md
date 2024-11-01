@@ -47,6 +47,16 @@ Resumo das atividades: desenvolvimento de um aplicativo que utiliza inteligênci
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
+<br/>
+
+
+
+## Contribuições
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduvieira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duduvieira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+<br/>
 
 
 <picture>
@@ -57,16 +67,6 @@ Resumo das atividades: desenvolvimento de um aplicativo que utiliza inteligênci
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduvieira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-## Contribuindo
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=duduvieira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-<br/>
 
 ## 🔎 Onde me encontrar
 
