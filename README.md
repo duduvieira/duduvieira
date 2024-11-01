@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️Sou Eduardo Vieira tenho 17 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de praticar esportes.
+🙋‍♂️Sou Eduardo Vieira, tenho 17 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de praticar esportes.
 
 📖 Atualmente estou em busca do meu primeiro emprego.
 
@@ -15,6 +15,24 @@
 
 <br/>
 
+## 👨‍💻 Experiências
+
+Projeto de Pesquisa (IFMA)
+Cargo: Desenvolvedor
+Resumo das atividades: desenvolvimento de um jogo educativo para auxiliar alunos no aprendizado de assuntos da disciplina de redes de computadores;
+
+
+Projeto de Pesquisa/Inovação (IFMA)
+Cargo: Coletor de dados
+Resumo das atividades: coletar dados de balneários para criação de um aplicativo que estimula a sensibilização ecológica sobre balneários de Açailândia-MA;
+
+
+Projeto de Pesquisa (IFMA)
+Cargo: Desenvolvedor
+Resumo das atividades: desenvolvimento de um aplicativo que utiliza inteligência artificial para a identificação de espécies arbóreas.
+
+
+<br/>
 
  ## 💻Tecnologias que uso:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,12 +55,20 @@
   <img alt="Mostra uma cobra comendo commits" src="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
 </picture>
 
+<br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduvieira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+
+## Contribuindo
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duduvieira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <br/>
 
 ## 🔎 Onde me encontrar
-E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo pelos contatos abaixo! Estou sempre procurando aprender mais e trocar ideias.
 
 <div align="center"> 
 <a href = "mailto:duduvieiradev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
