@@ -7,6 +7,7 @@
 🙋‍♂️ Me chamo **Eduardo Vieira**, tenho 18 anos e sou apaixonado por tecnologia! Acredito no poder da programação para transformar realidades e contribuir para um mundo mais justo.
 
 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica - UNIAMÉRICA (Abr/2025 - Set/2027).
+
 🎓 Possuo ensino medio integrado ao curso Técnico em Informática no IFMA - Campus Açailândia (Mar/2022 - Fev/2025) concluído.
 
 💼 Em busca de oportunidades como **Desenvolvedor Mobile Fullstack** ou **Técnico em Informática**.
