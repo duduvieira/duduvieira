@@ -6,7 +6,8 @@
 
 🙋‍♂️ Me chamo **Eduardo Vieira**, tenho 18 anos e sou apaixonado por tecnologia! Acredito no poder da programação para transformar realidades e contribuir para um mundo mais justo.
 
-🎓 Atualmente sou estudante do curso Técnico em Informática no IFMA - Campus Açailândia (previsão de conclusão: Fev/2025) e também estou iniciando o curso de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica - UNIAMÉRICA (Abr/2025 - Set/2027).
+🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica - UNIAMÉRICA (Abr/2025 - Set/2027).
+🎓 Possuo ensino medio integrado ao curso Técnico em Informática no IFMA - Campus Açailândia (Mar/2022 - Fev/2025) concluído.
 
 💼 Em busca de oportunidades como **Desenvolvedor Mobile Fullstack** ou **Técnico em Informática**.
 
@@ -20,15 +21,15 @@
 - Desenvolvimento e manutenção de apps customizados para a indústria siderúrgica.
 - Tecnologias: React Native, SQLite, REST API, JavaScript.
 
-### 🎮 REDCOM (IFMA) – Desenvolvedor e Escritor
+### 🎮 REDCOM (IFMA) – Desenvolvedor e Escritor (Jan/2022 - Dez/2024)
 - Criação de jogo educativo sobre Redes de Computadores com Unity 3D e C#.
 - Artigo publicado em eventos como Universo IFMA e CONNEPI.
 
-### 🌱 ARBORIZAR (IFMA) – Desenvolvedor Mobile
+### 🌱 ARBORIZAR (IFMA) – Desenvolvedor Mobile (Jan/2023 - Dez/2024)
 - App de identificação de árvores com IA.
 - Tecnologias: React Native, Expo, JavaScript, Firebase.
 
-### 🌍 ECOTOUR (IFMA) – Coletor de Dados
+### 🌍 ECOTOUR (IFMA) – Coletor de Dados (2024)
 - Coleta de dados sobre balneários para app de educação ecológica.
 
 ---
@@ -43,28 +44,23 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 
 ---
 
 ## 🚀 Tecnologias que tenho interesse
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
 
 ---
 
 ## 🛠 Outras habilidades
 
 - Montagem e manutenção de computadores
-- Redes de Computadores (CCNAv7)
-- Fundamentos em Hardware e Linux (Cisco)
 - Design gráfico e edição de vídeo
 - Pensamento Computacional e Algoritmos
-- Ferramentas: GitHub • TortoiseSVN • Asana
+- Ferramentas: Git • GitHub • TortoiseSVN • Asana
 
 ---
 
